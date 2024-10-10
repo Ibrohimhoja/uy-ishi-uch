@@ -1,1 +1,2 @@
 salom fayl3.txt
+mana ikkinchi qator matn
