@@ -1,2 +1,3 @@
 salom fayl3.txt
 mana ikkinchi qator matn
+mana uchinchi qator matn
