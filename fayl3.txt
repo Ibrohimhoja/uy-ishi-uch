@@ -1,3 +1,4 @@
 salom fayl3.txt
 mana ikkinchi qator matn
 mana uchinchi qator matn
+https://github.com/Ibrohimhoja/uy-ishi-uch
